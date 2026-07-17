@@ -58,18 +58,6 @@ Turning data into decisions through analytics, visualization, and AI.
 
 A Power BI dashboard featuring revenue analytics, inventory optimization, customer insights, demand forecasting, and dynamic pricing.
 
-### 💰 Dynamic Pricing using Machine Learning
-
-An intelligent pricing engine that analyzes demand, inventory, competitor pricing, and promotions to recommend optimal product prices.
-
-### 📦 Smart Inventory Management
-
-Inventory analytics dashboard with stock health monitoring, reorder recommendations, and warehouse insights.
-
-### 🤖 Demand Forecasting
-
-Forecasting future product demand using Machine Learning and Time Series models for better planning.
-
 ---
 
 ## 📊 Contribution Graph
